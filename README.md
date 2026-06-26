@@ -18,7 +18,7 @@ A desktop application built with Python, Tkinter, and MySQL for managing student
 
 ## Screenshot
 
-(Screen.png)
+![Student Management System](Screen.png)
 
 ## Database Setup
 
